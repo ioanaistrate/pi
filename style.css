@@ -335,6 +335,7 @@ footer a:hover{
     background-color: #e3e6f3;
     box-shadow: -2px 0 4px hsl(0 4% 15% / 10%);
     transition: 1s;
+    overflow: auto;
 
 }
 .cart.active{
